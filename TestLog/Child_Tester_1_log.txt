@@ -1,0 +1,39 @@
+
+
+-------------------- Initializing Child Tester --------------------
+
+-- Testing time: Sun May 24 02:51:10 2020
+-- Log path: ../TestLog/
+-- Tester Sending Mesage to Server: ready
+-------------------- Attention --------------------
+
+-- Tester localhost:8001 Has Received A Message: 123
+
+-------------------- Message Content --------------------
+
+-- Message Title: 123
+-- Message Command: testReq
+-- Message Operator: 456
+-- Message From: localhost:8099
+-- Message File:                       TestDriver4.dll
+
+
+
+-------------------- Test Task Starts --------------------
+
+-- File Is Sucessfully Loaded: ../SaveFile\TestDriver4.dll
+-- Executing Tests Extracted From: ../SaveFile\TestDriver4.dll
+
+-------------------- Test Result --------------------
+
+-- All Tests Passed In The Test Driver Library: ../SaveFile\TestDriver4.dll-- ^;^
+
+-- Detailed log file for each test library is named: log_123.txt
+-- Test report summary is named: [Child_Tester_Name]_log.txt
+-- Only test report summary will be sent back to client in the
+-- form of Message.
+--------------------------------------------------------
+
+-- Send Logging Result Back To GUI Client...
+
+------------------------Test Ends-----------------------
